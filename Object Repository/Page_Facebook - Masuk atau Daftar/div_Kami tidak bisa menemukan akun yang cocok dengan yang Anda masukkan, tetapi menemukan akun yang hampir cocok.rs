@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kami tidak bisa menemukan akun yang cocok dengan yang Anda masukkan, tetapi menemukan akun yang hampir cocok</name>
+   <tag></tag>
+   <elementGuidId>e61e98e1-a55d-432f-a394-ce40925ff7ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._9kq2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='facebook']/body/div[4]/div[2]/div/div/div/div/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59f63bba-968a-49fc-964f-6a99535840aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9kq2</value>
+      <webElementGuid>186cc9c1-a444-4e6e-a023-84983e7112a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kami tidak bisa menemukan akun yang cocok dengan yang Anda masukkan, tetapi menemukan akun yang hampir cocok.</value>
+      <webElementGuid>e540686d-35ee-49eb-9130-f385f25bdc54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;fbIndex UIPage_LoggedOut _-kb _605a b_c3pyn-ahh chrome webkit win x1-5 Locale_id_ID cores-gte4 _19_u&quot;]/div[@class=&quot;_10 _9lv3 uiLayer _4-hy _3qw&quot;]/div[@class=&quot;_59s7 _9l2g&quot;]/div[@class=&quot;_4t2a&quot;]/div[1]/div[1]/div[@class=&quot;_4-i2 _pig _9kpl _50f4&quot;]/div[@class=&quot;_9kq2&quot;]</value>
+      <webElementGuid>7d011c75-5a48-40a3-b9f3-1c76a2c946be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='facebook']/body/div[4]/div[2]/div/div/div/div/div[6]</value>
+      <webElementGuid>df140103-97ba-4364-a654-788d52288a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukan Anda?'])[1]/following::div[1]</value>
+      <webElementGuid>8b361a39-e371-4f11-8489-06bb4f5aaf7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='indahrsydh10@gmail.com •'])[1]/following::div[1]</value>
+      <webElementGuid>a8d0a738-db2e-4e7c-9136-09fb39f787a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, Lanjutkan'])[1]/preceding::div[1]</value>
+      <webElementGuid>6fd739f7-e641-4f84-85cb-425ebfb0c5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kami tidak bisa menemukan akun yang cocok dengan yang Anda masukkan, tetapi menemukan akun yang hampir cocok.']/parent::*</value>
+      <webElementGuid>ac457ac3-2591-47e3-853c-43fd7b519b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>ec66d978-0307-4677-a9ed-9f649cb3e7f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kami tidak bisa menemukan akun yang cocok dengan yang Anda masukkan, tetapi menemukan akun yang hampir cocok.' or . = 'Kami tidak bisa menemukan akun yang cocok dengan yang Anda masukkan, tetapi menemukan akun yang hampir cocok.')]</value>
+      <webElementGuid>66795d99-dc7f-4383-94d8-8b4ad3960329</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

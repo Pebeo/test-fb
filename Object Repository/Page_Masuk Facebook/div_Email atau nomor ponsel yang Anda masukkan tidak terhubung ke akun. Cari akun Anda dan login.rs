@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login</name>
+   <tag></tag>
+   <elementGuidId>869eb803-dd08-42fa-ab9b-3e6e434b52e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._9ay7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='email_container']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67ed30e2-1bd4-4765-a109-76b01e453f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9ay7</value>
+      <webElementGuid>0c1b3456-be2b-41b6-8c3c-114c699e30f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login.</value>
+      <webElementGuid>e91700c5-47a2-4e3f-bd09-894fb77d90f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email_container&quot;)/div[@class=&quot;_9ay7&quot;]</value>
+      <webElementGuid>74a10207-b013-49d3-94cd-9f85b23dc72f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='email_container']/div[2]</value>
+      <webElementGuid>26fb4ac1-2ff2-4949-b4e8-f88bd52e3f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login ke Facebook'])[1]/following::div[5]</value>
+      <webElementGuid>4aecaa5b-08e1-40bc-a69a-8d79d8482c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::div[7]</value>
+      <webElementGuid>d6acc696-2208-483e-b76b-72d20c12c18d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email atau nomor ponsel yang Anda masukkan tidak terhubung ke akun.']/parent::*</value>
+      <webElementGuid>6091a399-b8a1-49da-bd92-1498f244fc7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]</value>
+      <webElementGuid>e52878d4-80eb-4cb9-99df-4d3cbf569679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login.' or . = 'Email atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login.')]</value>
+      <webElementGuid>7571d09d-b18f-4062-a433-31fb914165bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
