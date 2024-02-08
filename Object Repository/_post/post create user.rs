@@ -27,8 +27,8 @@
    <katalonVersion>9.3.0</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
-   <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://reqres.in/api/users</restUrl>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>https://reqres.in/api/users/</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -51,11 +51,14 @@ RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
-WS.verifyResponseStatusCode(response, 200)
+WS.verifyResponseStatusCode(response, 201)
 
-assertThat(response.getStatusCode()).isEqualTo(200)
+assertThat(response.getStatusCode()).isEqualTo(201)
 
 
-assertThat(response.getStatusCode()).isIn(Arrays.asList(200, 201, 202))</verificationScript>
+assertThat(response.getStatusCode()).isIn(Arrays.asList(200, 201, 202))
+
+
+</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

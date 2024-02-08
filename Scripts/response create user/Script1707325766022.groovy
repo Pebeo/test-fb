@@ -23,5 +23,5 @@ WS.sendRequest(findTestObject('_post/post create user'))
 response = WS.sendRequestAndVerify(findTestObject('_post/post create user'))
 
 'verif respon'
-WS.verifyResponseStatusCode(response, 200)
+WS.verifyResponseStatusCode(response, 201)
 
